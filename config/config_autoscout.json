@@ -1,0 +1,55 @@
+{
+    	"suppliers": [58, 204, 269, 294, 296, 297, 298, 304, 305, 315, 316, 324, 331, 332, 333, 334, 335, 2089, 2121],
+    	"campaigns_rm": {"Autoscout RM": [11565, 11563, 11561, 11559, 12035, 12265, 12267, 12268, 12270, 12272]},
+    	"date_start": "2014-01-01",
+    	"date_end":   "2014-02-28",
+	"bundles": ["com.autoscout24.lab", "com.autoscout24", "com.autoscout24.alpha", "com.autoscout24.beta", "com.autoscout24.alpha", "311785642"],
+
+    	"devices": ["ipad", "iphone"],
+
+	"suppliers": {
+		"58": 	"Trademob DSP",
+		"269":	"Tapcommerce",
+		"296":	"Trademob DSP",
+		"297":	"Trademob DSP",
+		"298":	"Trademob DSP",
+		"315":	"Lovoo",
+		"316":	"Trademob DSP",
+		"331":	"Trademob DSP",
+		"335":	"Trademob DSP",
+		"334":	"Trademob DSP",
+		"324":	"Trademob DSP",
+		"333":	"Trademob DSP"
+	},
+
+	"campaigns": {
+		"11559":	["New Openers", "iPad"],
+		"11561":	["Browsers", "iPad"],
+		"11563":	["New Openers", "iPhone"],
+		"11565":	["Browsers", "iPhone"],
+		"12035":	["Browsers", "iPhone"],
+		"12265":	["Browsers", "iPhone"],
+                "12267":        ["Browsers", "iPhone"],
+                "12268":        ["New Openers", "iPad"],
+                "12270":        ["Browsers", "iPad"],
+                "12272":        ["New Openers", "iPhone"]
+	},
+
+	"custom_actions": {
+		"search":	"04_Search",
+		"listpage":	"07_ListPage",
+		"detailpage":	"06_DetailPage",
+		"call":		"09_Call",
+		"email":	"08_Email",
+		"favorite":	"05_Favorite",
+		"reopening":	"02_Reopenings, 03_Reopeners",
+		"a_opening":	"01_Installs"
+	},
+
+	"CPC": {
+		"initial_currency": 	"EUR",
+		"final_currency": 	"USD",
+		"CPC Net":		"0.33",
+		"Margin":		"0.141"
+	}
+}

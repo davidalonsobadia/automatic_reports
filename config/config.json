@@ -1,0 +1,4 @@
+{
+    "files": ["config_hrs.json", "config_bwin_de.json", "config_bwin_gb.json"],
+    "names": ["hrs", "bwin_de", "bwin_gb"]
+}
